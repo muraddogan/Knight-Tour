@@ -1,0 +1,9 @@
+C:\Users\Oğuzhan\source\repos\dataGridViewOrnekler\dataGridViewOrnekler\bin\Debug\dataGridViewOrnekler.exe
+C:\Users\Oğuzhan\source\repos\dataGridViewOrnekler\dataGridViewOrnekler\bin\Debug\dataGridViewOrnekler.pdb
+C:\Users\Oğuzhan\source\repos\dataGridViewOrnekler\dataGridViewOrnekler\obj\Debug\Knight's Tour.csprojResolveAssemblyReference.cache
+C:\Users\Oğuzhan\source\repos\dataGridViewOrnekler\dataGridViewOrnekler\obj\Debug\knightstour.Form1.resources
+C:\Users\Oğuzhan\source\repos\dataGridViewOrnekler\dataGridViewOrnekler\obj\Debug\dataGridViewOrnekler.Properties.Resources.resources
+C:\Users\Oğuzhan\source\repos\dataGridViewOrnekler\dataGridViewOrnekler\obj\Debug\Knight's Tour.csproj.GenerateResource.Cache
+C:\Users\Oğuzhan\source\repos\dataGridViewOrnekler\dataGridViewOrnekler\obj\Debug\Knight's Tour.csproj.CoreCompileInputs.cache
+C:\Users\Oğuzhan\source\repos\dataGridViewOrnekler\dataGridViewOrnekler\obj\Debug\dataGridViewOrnekler.exe
+C:\Users\Oğuzhan\source\repos\dataGridViewOrnekler\dataGridViewOrnekler\obj\Debug\dataGridViewOrnekler.pdb
